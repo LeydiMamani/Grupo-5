@@ -1,0 +1,17 @@
+[
+  {
+    "tamaño": "Grande",
+    "color": "Azul",
+    "ubicacion": "Edificio 1, Planta 2"
+  },
+  {
+    "tamaño": "Mediano",
+    "color": "Verde",
+    "ubicacion": "Edificio 1, Planta 3"
+  },
+  {
+    "tamaño": "Pequeño",
+    "color": "Rojo",
+    "ubicacion": "Edificio 2, Planta 1"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Matemáticas",
+    "creditos": 6,
+    "id_docente": "DOCENTE_1"
+  },
+  {
+    "nombre": "Lengua y Literatura",
+    "creditos": 5,
+    "id_docente": "DOCENTE_2"
+  },
+  {
+    "nombre": "Ciencias Sociales",
+    "creditos": 4,
+    "id_docente": "DOCENTE_3"
+  }
+]

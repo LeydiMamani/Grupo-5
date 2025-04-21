@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Unidad 1: Fundamentos Matemáticos",
+    "descripcion": "Introducción a las matemáticas básicas",
+    "id_asignatura": "MATH_1"
+  },
+  {
+    "nombre": "Unidad 2: Álgebra Avanzada",
+    "descripcion": "Conceptos y aplicaciones del álgebra",
+    "id_asignatura": "MATH_1"
+  },
+  {
+    "nombre": "Unidad 3: Historia Moderna",
+    "descripcion": "Contexto histórico de los siglos XVIII y XIX",
+    "id_asignatura": "SOCIAL_1"
+  }
+]

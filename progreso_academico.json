@@ -1,0 +1,20 @@
+[
+  {
+    "id_alumno": "ALUMNO_1",
+    "id_asignatura": "MATH_1",
+    "promedio": 8.5,
+    "observaciones": "Buen rendimiento"
+  },
+  {
+    "id_alumno": "ALUMNO_2",
+    "id_asignatura": "SOCIAL_1",
+    "promedio": 7.2,
+    "observaciones": "Debe mejorar"
+  },
+  {
+    "id_alumno": "ALUMNO_3",
+    "id_asignatura": "MATH_1",
+    "promedio": 9.0,
+    "observaciones": "Excelente desempeño"
+  }
+]

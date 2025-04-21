@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "apellido_paterno": "Pérez",
+    "apellido_materno": "Gómez",
+    "edad": 18,
+    "direccion": "Calle Ficticia 123",
+    "telefono": "123456789",
+    "id_grupo": "GRUPO_A"
+  },
+  {
+    "nombre": "Ana Rodríguez",
+    "apellido_paterno": "Rodríguez",
+    "apellido_materno": "Martínez",
+    "edad": 19,
+    "direccion": "Avenida Principal 456",
+    "telefono": "987654321",
+    "id_grupo": "GRUPO_B"
+  },
+  {
+    "nombre": "Pedro García",
+    "apellido_paterno": "García",
+    "apellido_materno": "Sánchez",
+    "edad": 20,
+    "direccion": "Calle Real 789",
+    "telefono": "555123456",
+    "id_grupo": "GRUPO_C"
+  }
+]

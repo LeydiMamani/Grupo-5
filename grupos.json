@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Grupo A",
+    "numero_integrantes": 30,
+    "id_salon": "SALON_1"
+  },
+  {
+    "nombre": "Grupo B",
+    "numero_integrantes": 28,
+    "id_salon": "SALON_2"
+  },
+  {
+    "nombre": "Grupo C",
+    "numero_integrantes": 32,
+    "id_salon": "SALON_3"
+  }
+]

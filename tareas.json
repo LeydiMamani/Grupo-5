@@ -1,0 +1,32 @@
+[
+  {
+    "Id_Tarea": 1,
+    "Titulo": "Ejercicios de álgebra",
+    "Descripcion": "Resolver los problemas de las páginas 32 y 33",
+    "Fecha_Entrega": "2025-04-22",
+    "Id_Asignatura": 101,
+    "Id_Alumno": 201,
+    "Estado": true,
+    "Calificacion": null
+  },
+  {
+    "Id_Tarea": 2,
+    "Titulo": "Examen final",
+    "Descripcion": "Examen teórico de todo el curso",
+    "Fecha_Entrega": "2025-05-05",
+    "Id_Asignatura": 101,
+    "Id_Alumno": 202,
+    "Estado": true,
+    "Calificacion": null
+  },
+  {
+    "Id_Tarea": 3,
+    "Titulo": "Investigación sobre historia",
+    "Descripcion": "Investigar sobre la Revolución Francesa",
+    "Fecha_Entrega": "2025-04-30",
+    "Id_Asignatura": 102,
+    "Id_Alumno": 203,
+    "Estado": false,
+    "Calificacion": 8.5
+  }
+]

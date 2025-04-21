@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Carlos Martínez",
+    "apellido_paterno": "Martínez",
+    "apellido_materno": "Sánchez",
+    "telefono": "1122334455",
+    "email": "carlos.martinez@educacion.edu"
+  },
+  {
+    "nombre": "Laura Fernández",
+    "apellido_paterno": "Fernández",
+    "apellido_materno": "González",
+    "telefono": "9988776655",
+    "email": "laura.fernandez@educacion.edu"
+  },
+  {
+    "nombre": "Eduardo López",
+    "apellido_paterno": "López",
+    "apellido_materno": "Pérez",
+    "telefono": "5566778899",
+    "email": "eduardo.lopez@educacion.edu"
+  }
+]

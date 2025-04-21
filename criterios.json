@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Examen Final",
+    "descripcion": "Evaluación global del curso",
+    "peso": 50,
+    "id_asignatura": "MATH_1"
+  },
+  {
+    "nombre": "Tareas",
+    "descripcion": "Entrega de ejercicios y actividades",
+    "peso": 30,
+    "id_asignatura": "SOCIAL_1"
+  },
+  {
+    "nombre": "Participación en clase",
+    "descripcion": "Aportes durante las clases",
+    "peso": 20,
+    "id_asignatura": "SOCIAL_1"
+  }
+]
